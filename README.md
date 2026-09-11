@@ -94,13 +94,6 @@ ML-assisted clinic platform with two engines: a metabolic profiler and an NLP sy
 ### Activity
 
 <div align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Hiruna01&show_icons=true&hide_border=true&theme=transparent&title_color=6366F1&icon_color=6366F1&text_color=8b949e&rank_icon=github" alt="GitHub stats" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hiruna01&layout=compact&hide_border=true&theme=transparent&title_color=6366F1&text_color=8b949e" alt="Top languages" />
-<br>
-<img height="160" src="https://streak-stats.demolab.com?user=Hiruna01&theme=transparent&hide_border=true&ring=6366F1&fire=6366F1&currStreakLabel=6366F1&sideLabels=8b949e&dates=8b949e" alt="Streak" />
-
-<br><br>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hiruna01/Hiruna01/output/github-snake-dark.svg" />
   <img src="https://raw.githubusercontent.com/Hiruna01/Hiruna01/output/github-snake.svg" alt="Contribution snake" />
